@@ -2,21 +2,15 @@
 
 # Ritunjay Murali
 
-Engineer with a soft spot for performance, correctness, and clean experiments. I work across ML and systems: from training/serving setups to the lower-level pieces that make them work.
+Hi, I’m Ritunjay. I’m a software engineer building enterprise AI applications for financial services.
 
-## What I’m into (right now)
-- Making training & inference runs easier to reproduce (env scripts, small profilers, benchmarks)
-- Distributed training & serving ergonomics
-- Compilers/kernels when performance actually matters
+I currently work at Intellect Design Arena, where I build full-stack AI systems on the Purple Fabric platform, ranging from LLM pipelines and multi-agent workflows to databases and backend services. Recent work includes compliance automation, wealth management tools, and lending workflows.
 
-## Open source (actively exploring)
-I’m currently **evaluating issues and planning first PRs** in:
-- PyTorch / JAX (distributed, compile/Inductor/XLA)
-- vLLM / model-serving tools
-- TVM / compiler tooling
-- AWS Neuron samples/SDK (Trainium/Inferentia)
+My background spans full-stack development, distributed systems, and machine learning. I’ve built web applications with Vue.js and Node.js, engineered large-scale geospatial data pipelines, developed blockchain security analysis systems, and published IEEE research on disease classification. I’ve also worked on forest classification, automated discovery systems, gaming analytics, and satellite network performance analysis.
 
-*(I’ll link PRs here as they open/merge.)*
+What drives me is building reliable software that solves real problems, whether that means optimizing backend performance, designing scalable APIs, automating business workflows, or applying machine learning in production systems. I enjoy working across the stack and learning through hands-on projects.
+
+Open to software engineering roles across backend, full-stack, AI engineering, data engineering, and ML. Always learning and happy to contribute to impactful projects.
 
 ## Projects
 - Starlink handover analysis — mobility + network performance. [Link](https://github.com/ritunjaym/starlink-satellite-handover-analysis)
@@ -25,19 +19,3 @@ I’m currently **evaluating issues and planning first PRs** in:
 ## Contact
 - LinkedIn: [Ritunjay Murali](https://www.linkedin.com/in/ritunjaym/)
 - Email: <ritunjaymurali@gmail.com>
-
-
-<!--
-**ritunjaym/ritunjaym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
